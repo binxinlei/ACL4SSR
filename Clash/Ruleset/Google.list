@@ -1,13 +1,16 @@
-# 内容：Google
-# 数量：19条
+# 内容：Google（不含 YouTube）
+# 数量：18条
+# 说明：已移除所有 YouTube 相关域名，并去掉会误匹配 googlevideo 的 DOMAIN-KEYWORD,google
+
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,recaptcha
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,c.gle
 DOMAIN-SUFFIX,g.co
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
